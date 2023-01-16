@@ -2,7 +2,7 @@
   "name": "server.js",
   "version": "1.0.0",
   "description": "teste de server no render",
-  "main": "server.js",
+  "main": "C:/Users/programadores.carioc/node_modules/json-server",
   "scripts": {
     "test": "node server.js"
   },  
