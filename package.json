@@ -7,9 +7,11 @@
     "test": "node server.js"
   },  
 
-    "repository": {
-    "type": "git",
-    "url": "https://github.com/IgorVieira99/Exercicio-Servidor"
+  "type": "module",
+
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/IgorVieira99/Exercicio-Servidor"
   },
 
   "keywords": [
