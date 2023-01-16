@@ -1,0 +1,17 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "teste de server no render",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Igor Vieira",
+  "license": "ISC",
+  "keywords": [
+    "Shape",
+    "Truck",
+    "Lixa",
+    "Rolamento"
+  ]
+}

@@ -1,26 +1,26 @@
 {
-    "shape":[
+    "Shape":[
         {
             "maple": 200.00,
             "marfim": 120.00,
             "fiber glass": 150.00
         }
     ],
-    "truck":[
+    "Truck":[
         {
             "venture": 200.00,
             "crail": 160.00,
             "independent": 210.00
         }
     ],
-    "lixa":[
+    "Lixa":[
         {
             "básica": 10.00,
             "mobgrip": 30.00,
             "thrasher": 60.00
         }
     ],
-    "rolamento":[
+    "Rolamento":[
         {   
             "spitfire":90.00,
             "red bones": 110.00,
