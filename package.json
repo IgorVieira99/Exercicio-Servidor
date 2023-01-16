@@ -4,7 +4,7 @@
   "description": "teste de server no render",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "start": "node server.js"
   },  
 
   "type": "module",
