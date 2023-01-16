@@ -18,7 +18,8 @@
     "Shape",
     "Truck",
     "Lixa",
-    "Rolamento"
+    "Rolamento",
+    "json-server"
   ],
 
   "author": "Igor Vieira",
