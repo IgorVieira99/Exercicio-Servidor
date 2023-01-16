@@ -5,13 +5,27 @@
   "main": "server.js",
   "scripts": {
     "test": "node server.js"
+  },  
+
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/IgorVieira99/Exercicio-Servidor"
   },
-  "author": "Igor Vieira",
-  "license": "ISC",
+
   "keywords": [
     "Shape",
     "Truck",
     "Lixa",
     "Rolamento"
-  ]
+  ],
+
+  "author": "Igor Vieira",
+
+  "license": "MIT",
+
+  "bugs": {
+    "url": "https://github.com/IgorVieira99/Exercicio-Servidor"
+  },
+
+  "homepage": "https://github.com/IgorVieira99/Exercicio-Servidor"
 }
